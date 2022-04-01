@@ -89,7 +89,7 @@
 |---|---|---|
 | [Игра "Жизнь" Конвея](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#game-of-life-) | | |
 | [Правило 30](https://en.wikipedia.org/wiki/Rule_30) | | |
-| [Вычисление скидок на книги](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#harry-potter-) | | |
+| [Вычисление скидок на книги](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#harry-potter-) |Гордей М.В 381906-2 | |
 | [Перевод чисел в их словесное написание на английском](http://codingdojo.org/kata/NumbersInWords/) | | |
 | [Работа с числовыми промежутками](http://codingdojo.org/kata/Range/) | | |
 | [Реализовать печать цифр в псевдографике](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#lcd-digits-) | | |
