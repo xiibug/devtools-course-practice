@@ -94,6 +94,6 @@
 | [Работа с числовыми промежутками](http://codingdojo.org/kata/Range/) |Троегубова Александра 381903_3 | |
 | [Реализовать печать цифр в псевдографике](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#lcd-digits-) | | |
 | Поиск в тексте регулярных выражений (упрощенные) | | |
-| [Ипотечный калькулятор](http://calculator-ipoteka.ru/calculator.php) | | |
+| [Ипотечный калькулятор](http://calculator-ipoteka.ru/calculator.php) | Cеребренников Мирон 381908-2 | |
 | [Калькулятор доходности вкладов](http://www.banki.ru/services/calculators/deposits/) | | |
 | Игра "Быки и коровы" |Подовинников Артём 381908-2 | |
