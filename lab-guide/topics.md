@@ -92,7 +92,7 @@
 | [Вычисление скидок на книги](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#harry-potter-) |Гордей М.В 381906-2 | |
 | [Перевод чисел в их словесное написание на английском](http://codingdojo.org/kata/NumbersInWords/) |Зайцев Александр 381906-1 | |
 | [Работа с числовыми промежутками](http://codingdojo.org/kata/Range/) |Троегубова Александра 381903_3 | |
-| [Реализовать печать цифр в псевдографике](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#lcd-digits-) | | |
+| [Реализовать печать цифр в псевдографике](https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#lcd-digits-) | Мясникова Варвара 381908-1 | |
 | Поиск в тексте регулярных выражений (упрощенные) | | |
 | [Ипотечный калькулятор](http://calculator-ipoteka.ru/calculator.php) | Cеребренников Мирон 381908-2 | |
 | [Калькулятор доходности вкладов](http://www.banki.ru/services/calculators/deposits/) |Шаталин Дмитрий 381908-3 | Бражник Дмитрий 381908-3 |
